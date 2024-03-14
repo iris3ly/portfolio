@@ -1,0 +1,545 @@
+{
+	"textures": [
+		{
+			"image": "sprite-sheet.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 190,
+				"h": 116
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "iris-back-walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "iris-back-walk.004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 1,
+						"y": 40,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "iris-front-walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 12,
+						"w": 25,
+						"h": 36
+					},
+					"frame": {
+						"x": 1,
+						"y": 79,
+						"w": 25,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-back",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 27,
+						"y": 1,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "iris-front-walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 27,
+						"y": 40,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "iris-front-walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 25,
+						"h": 36
+					},
+					"frame": {
+						"x": 28,
+						"y": 79,
+						"w": 25,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-front-walk.004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 53,
+						"y": 1,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "iris-front",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 24,
+						"h": 37
+					},
+					"frame": {
+						"x": 53,
+						"y": 40,
+						"w": 24,
+						"h": 37
+					}
+				},
+				{
+					"filename": "iris-back-walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 24,
+						"h": 36
+					},
+					"frame": {
+						"x": 55,
+						"y": 79,
+						"w": 24,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-back-walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 12,
+						"w": 24,
+						"h": 36
+					},
+					"frame": {
+						"x": 79,
+						"y": 1,
+						"w": 24,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-left-walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 20,
+						"h": 36
+					},
+					"frame": {
+						"x": 79,
+						"y": 39,
+						"w": 20,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-left-walk.004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 20,
+						"h": 36
+					},
+					"frame": {
+						"x": 81,
+						"y": 77,
+						"w": 20,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-left",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 12,
+						"w": 20,
+						"h": 36
+					},
+					"frame": {
+						"x": 101,
+						"y": 39,
+						"w": 20,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-right-walk.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 12,
+						"w": 20,
+						"h": 36
+					},
+					"frame": {
+						"x": 105,
+						"y": 1,
+						"w": 20,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-right-walk.004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 12,
+						"w": 20,
+						"h": 36
+					},
+					"frame": {
+						"x": 103,
+						"y": 77,
+						"w": 20,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-right",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 12,
+						"w": 20,
+						"h": 36
+					},
+					"frame": {
+						"x": 123,
+						"y": 39,
+						"w": 20,
+						"h": 36
+					}
+				},
+				{
+					"filename": "iris-left-walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 20,
+						"h": 35
+					},
+					"frame": {
+						"x": 127,
+						"y": 1,
+						"w": 20,
+						"h": 35
+					}
+				},
+				{
+					"filename": "iris-right-walk.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 13,
+						"w": 20,
+						"h": 35
+					},
+					"frame": {
+						"x": 125,
+						"y": 77,
+						"w": 20,
+						"h": 35
+					}
+				},
+				{
+					"filename": "iris-left-walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 145,
+						"y": 38,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "iris-right-walk.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 149,
+						"y": 1,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "loki.001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 19,
+						"h": 26
+					},
+					"frame": {
+						"x": 170,
+						"y": 1,
+						"w": 19,
+						"h": 26
+					}
+				},
+				{
+					"filename": "loki.002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 19,
+						"h": 26
+					},
+					"frame": {
+						"x": 170,
+						"y": 29,
+						"w": 19,
+						"h": 26
+					}
+				},
+				{
+					"filename": "loki.003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 5,
+						"w": 19,
+						"h": 26
+					},
+					"frame": {
+						"x": 166,
+						"y": 57,
+						"w": 19,
+						"h": 26
+					}
+				},
+				{
+					"filename": "loki.004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 19,
+						"h": 25
+					},
+					"frame": {
+						"x": 147,
+						"y": 85,
+						"w": 19,
+						"h": 25
+					}
+				},
+				{
+					"filename": "loki.005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 6,
+						"w": 19,
+						"h": 25
+					},
+					"frame": {
+						"x": 168,
+						"y": 85,
+						"w": 19,
+						"h": 25
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:df0e4ffdb22a01ad6accee2189249769:be738e1d4abd70100fedadf0e1d6faaf:4cb984b15aa0f50ff47c18de1fc08384$"
+	}
+}
