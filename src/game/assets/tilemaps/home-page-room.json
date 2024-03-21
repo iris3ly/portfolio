@@ -58,6 +58,28 @@
                  "width":0,
                  "x":144,
                  "y":70
+                }, 
+                {
+                 "class":"Collider",
+                 "height":31.9903953326055,
+                 "id":6,
+                 "name":"About Collider",
+                 "rotation":0,
+                 "visible":true,
+                 "width":11.2363159137133,
+                 "x":0.0344645878364572,
+                 "y":95.9402166009251
+                }, 
+                {
+                 "class":"Collider",
+                 "height":31.9904,
+                 "id":8,
+                 "name":"Projects Collider",
+                 "rotation":0,
+                 "visible":true,
+                 "width":11.2363,
+                 "x":340.687511466052,
+                 "y":95.9267056317123
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -122,7 +144,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":3,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
@@ -326,7 +348,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -358,7 +379,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":3,
                      "name":"",
                      "objects":[
                             {
@@ -418,7 +438,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -450,7 +469,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":3,
                      "name":"",
                      "objects":[
                             {
@@ -777,7 +795,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
