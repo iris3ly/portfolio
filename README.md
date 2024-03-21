@@ -5,8 +5,8 @@ This is a Phaser 3 project created from the official [Phaser 3 and React templat
 Use the arrow keys to move.
 
 ## Running the project locally
-1. 'npm install'
-2. 'npm run dev'
+1. `npm install`
+2. `npm run dev`
 
 ## Thank you to...
 1. [Marie Pepo](https://www.fiverr.com/nekanos?source=order_page_user_message_link) for the sprites and tilesets
