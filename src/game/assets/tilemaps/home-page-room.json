@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"home-page-room.tmj"
+        }
+    },
  "height":8,
  "infinite":false,
  "layers":[
@@ -61,25 +69,136 @@
                 }, 
                 {
                  "class":"Collider",
-                 "height":31.9903953326055,
+                 "height":32,
                  "id":6,
                  "name":"About Collider",
                  "rotation":0,
                  "visible":true,
-                 "width":11.2363159137133,
-                 "x":0.0344645878364572,
-                 "y":95.9402166009251
+                 "width":5,
+                 "x":0,
+                 "y":96
                 }, 
                 {
                  "class":"Collider",
-                 "height":31.9904,
+                 "height":32,
                  "id":8,
                  "name":"Projects Collider",
                  "rotation":0,
                  "visible":true,
-                 "width":11.2363,
-                 "x":340.687511466052,
-                 "y":95.9267056317123
+                 "width":5,
+                 "x":347,
+                 "y":96
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":32,
+                 "id":9,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":28,
+                 "x":196.089323198128,
+                 "y":122
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":24,
+                 "id":10,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":24,
+                 "x":224,
+                 "y":122
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":10,
+                 "id":11,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":5,
+                 "x":248,
+                 "y":122
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":19,
+                 "id":12,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":11,
+                 "x":180,
+                 "y":128.094052797428
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":11,
+                 "id":13,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":16,
+                 "x":108,
+                 "y":67
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":28,
+                 "id":15,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":23.0035496856843,
+                 "x":64,
+                 "y":150
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":43,
+                 "id":17,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":27,
+                 "x":34,
+                 "y":142
+                },
+            
+                {
+                 "class":"World Collider",
+                 "height":21,
+                 "id":18,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":64,
+                 "x":32,
+                 "y":64
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":6,
+                 "id":19,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":54,
+                 "x":229,
+                 "y":64
+                }, 
+                {
+                 "class":"World Collider",
+                 "height":14,
+                 "id":20,
+                 "name":"Decor",
+                 "rotation":0,
+                 "visible":true,
+                 "width":14,
+                 "x":228,
+                 "y":194
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -144,7 +263,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":9,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
@@ -566,15 +685,14 @@
                      "objects":[
                             {
                              "class":"",
-                             "ellipse":true,
-                             "height":14.5121,
-                             "id":3,
+                             "height":14,
+                             "id":4,
                              "name":"",
                              "rotation":0,
                              "visible":true,
-                             "width":14.4046,
-                             "x":3.8,
-                             "y":1.7
+                             "width":14,
+                             "x":4,
+                             "y":2
                             }],
                      "opacity":1,
                      "type":"objectgroup",
@@ -799,15 +917,14 @@
                      "objects":[
                             {
                              "class":"",
-                             "ellipse":true,
-                             "height":16,
-                             "id":1,
+                             "height":11,
+                             "id":2,
                              "name":"",
                              "rotation":0,
                              "visible":true,
                              "width":16,
                              "x":12,
-                             "y":1.2
+                             "y":3
                             }],
                      "opacity":1,
                      "type":"objectgroup",
