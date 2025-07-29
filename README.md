@@ -9,7 +9,7 @@ Use the arrow keys to move.
 2. `npm run dev`
 
 ## Thank you to...
-1. [Marie Pepo](https://www.fiverr.com/nekanos?source=order_page_user_message_link) for the sprites and tilesets
+1. [Marie Pepo](https://marie-pepo.itch.io) for the sprites and tilesets
 
 ## Frameworks and Libraries
 1. [Phaser3](https://phaser.io)
